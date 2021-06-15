@@ -1,4 +1,4 @@
-This movie web app fetches the featured movies and displays them with image, title, and rating.
+This movie web app uses Rest API to fetch movies and displays them with image, title, and rating.
 
 An overview of the movie is provided which is displayed when the cursor is hovered on a movie poster.
 
